@@ -17,4 +17,25 @@ body {
 
 div {
   font-size: xx-large;
+  margin: 100;
+  padding: 100;
+  border: 100;
+  vertical-align: baseline;
+  text-align: center;
+}
+
+#links {
+  padding: 40px;
+  font-size: 30px;
+  color: black;
+  display: flex;
+  justify-content: space-evenly;
+  font-style: oblique;
+  font-weight: bolder;
+  text-decoration: none;
+}
+
+.header {
+  font-family: "Tangerine", serif;
+  font-size: 4em;
 }
