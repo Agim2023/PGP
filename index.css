@@ -39,3 +39,19 @@ div {
   font-family: "Tangerine", serif;
   font-size: 4em;
 }
+
+#pgp-img {
+display: flex;
+  flex-direction: row;
+  justify-content: left;
+  justify-content: space-evenly;
+  margin: auto;
+  margin-top: 100px;
+  margin-bottom: 50px;
+  height: 250px;
+  width: 500px;
+  box-shadow: 10px 10px 5px #000000;
+  -moz-box-shadow: 10px 10px 5px #000000;
+  -webkit-box-shadow: 10px 10px 5px #000000;
+  -khtml-box-shadow: 10px 10px 5px #000000;
+} 
